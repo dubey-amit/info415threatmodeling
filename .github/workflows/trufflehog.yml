@@ -1,4 +1,4 @@
-name: Leaked Secrets Scan
+name: Trufflehog Scan
 on:
   pull_request: {}
 jobs:
